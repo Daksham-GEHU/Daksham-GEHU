@@ -5,6 +5,9 @@
 }
 body{
   overflow-x: hidden;
+  background-image: url('https://images.shiksha.com/mediadata/images/1544521434phpY8m2KM.jpeg');
+  background-position: center;
+  background-size: cover;
 }
 header{
     display: flex;
@@ -237,7 +240,7 @@ button:disabled{
 
 footer{
    display: flex;
-   background-color:#05060f17;
+   background-color:#c8c9ce;
    padding: 32px 7px;
    justify-content: space-around;
 }
